@@ -8,7 +8,7 @@ Arduino requires the sketch folder to have the same name as the `.ino` file, so
 clone into a folder named `TempehController`:
 
 ```sh
-git clone <repository-url> TempehController
+git clone https://github.com/Manborough/TempehController TempehController
 cd TempehController
 ```
 
